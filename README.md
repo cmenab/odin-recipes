@@ -1,0 +1,1 @@
+This is an intro page used to demonstrate HTML and GIT by making a simple recipe list.
